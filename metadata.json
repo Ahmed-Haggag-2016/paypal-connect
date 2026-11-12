@@ -1,0 +1,6 @@
+{
+  "name": "PayPal Connect — Autonomous AI Commerce Mediator & Marketplace",
+  "description": "A small-business commerce prototype with AI-assisted price negotiation, buyer-approved PayPal Sandbox checkout, and human-approved payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
